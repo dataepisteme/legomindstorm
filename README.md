@@ -1,2 +1,3 @@
 # legomindstorm
-Several algorithms on Lego MindStork
+
+Several algorithms on Lego MindStorm
